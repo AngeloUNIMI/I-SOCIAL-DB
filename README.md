@@ -19,13 +19,13 @@ Outline:
 
 Citation:
 
-@Article{imavis20,
-    author = {R. Donida Labati and A. Genovese and V. Piuri and F. Scotti and S. Vishwakarma},
-    title = {I-SOCIAL-DB: A labeled database of images collected from websites and social media for iris recognition},
-    journal = {Image and Vision Computing},
-    year = {2020},
-    note = {0262-8856}
-}
+    @Article{imavis20,
+        author = {R. Donida Labati and A. Genovese and V. Piuri and F. Scotti and S. Vishwakarma},
+        title = {I-SOCIAL-DB: A labeled database of images collected from websites and social media for iris recognition},
+        journal = {Image and Vision Computing},
+        year = {2020},
+        note = {0262-8856}
+    }
 
 Main files:
 
