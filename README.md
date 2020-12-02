@@ -14,7 +14,8 @@ Project page:
 [http://iebil.di.unimi.it/ISocialDB/index.html](http://iebil.di.unimi.it/ISocialDB/index.html)
 
 Outline:
-<img src="http://iebil.di.unimi.it/ISocialDB/imgs/outline.jpg" width="100px">
+
+<img src="http://iebil.di.unimi.it/ISocialDB/imgs/outline.jpg" width="400px">
 
 Citation:
 
