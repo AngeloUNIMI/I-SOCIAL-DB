@@ -30,8 +30,8 @@ Citation:
 Main files:
 
 - plot_I_SOCIAL.m
-  MATLAB script used to plot the iris, the segmentation mask, the coordinates of the centers of pupil and iris, and the radii of the pupil and the iris 
+  MATLAB script used to plot the iris, the segmentation mask, and the circles approximating the inner and outher iris boundaries. 
 - convert_JP2_to_BMP.m
-  MATLAB script used to convert iris images from the JPEG2000 format to the BMP format 
+  MATLAB script used to convert iris images from the JPEG2000 format to the BMP format. 
 - convert_JP2_to_BMP.py
-  Python script used to convert iris images from the JPEG2000 format to the BMP format
+  Python script used to convert iris images from the JPEG2000 format to the BMP format.
