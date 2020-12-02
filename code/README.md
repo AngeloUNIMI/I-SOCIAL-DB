@@ -9,11 +9,11 @@ in Image and Vision Computing, 2020. ISSN: 0262-8856.<br/>
 DOI: 10.1016/j.imavis.2020.104058<br/>
 https://www.sciencedirect.com/science/article/abs/pii/S0262885620301906?via%3Dihub
 
-- plot_I_SOCIAL.m
+- plot_I_SOCIAL.m<br/>
   MATLAB script used to plot the iris, the segmentation mask, and the circles approximating the inner and outher iris boundaries.
   
-- convert_JP2_to_BMP.m
+- convert_JP2_to_BMP.m<br/>
   MATLAB script used to convert iris images from the JPEG2000 format to the BMP format.
   
-- convert_JP2_to_BMP.py
+- convert_JP2_to_BMP.py<br/>
   Python script used to convert iris images from the JPEG2000 format to the BMP format.
