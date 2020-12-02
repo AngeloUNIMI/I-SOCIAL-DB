@@ -9,12 +9,10 @@ Demonstration scripts used to evaluate the I-SOCIAL-DB, described in the paper:
     DOI: 10.1016/j.imavis.2020.104058
     https://www.sciencedirect.com/science/article/abs/pii/S0262885620301906?via%3Dihub
 
-Project page:
-
+Project page:<br/>
 [http://iebil.di.unimi.it/ISocialDB/index.html](http://iebil.di.unimi.it/ISocialDB/index.html)
 
-Outline:
-
+Outline:<br/>
 <img src="http://iebil.di.unimi.it/ISocialDB/imgs/outline.jpg" width="600px">
 
 Citation:
@@ -27,8 +25,7 @@ Citation:
         note = {0262-8856}
     }
 
-Main files:
-
+Main files:<br/>
 - plot_I_SOCIAL.m<br/>
   MATLAB script used to plot the iris, the segmentation mask, and the circles approximating the inner and outher iris boundaries. 
 - convert_JP2_to_BMP.m<br/>
