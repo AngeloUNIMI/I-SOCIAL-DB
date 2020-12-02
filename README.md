@@ -3,10 +3,10 @@ A Labeled Database of Images Collected from Websites and Social Media for Iris R
 
 Demonstration scripts used to evaluate the I-SOCIAL-DB, described in the paper:
 
-    R. Donida Labati, A. Genovese, V. Piuri, F. Scotti, and S. Vishwakarma, <br/>
-    "I-SOCIAL-DB: A labeled database of images collected from websites and social media for iris recognition", <br/>
-    in Image and Vision Computing, 2020. ISSN: 0262-8856.<br/>
-    DOI: 10.1016/j.imavis.2020.104058<br/>
+    R. Donida Labati, A. Genovese, V. Piuri, F. Scotti, and S. Vishwakarma,
+    "I-SOCIAL-DB: A labeled database of images collected from websites and social media for iris recognition",
+    in Image and Vision Computing, 2020. ISSN: 0262-8856.
+    DOI: 10.1016/j.imavis.2020.104058
     https://www.sciencedirect.com/science/article/abs/pii/S0262885620301906?via%3Dihub
 
 Project page:
