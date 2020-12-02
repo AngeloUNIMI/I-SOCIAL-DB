@@ -1,5 +1,5 @@
 # I-SOCIAL-DB
-A Labeled Database of Images Collected from Websites and Social Media for Iris Recognition
+**A Labeled Database of Images Collected from Websites and Social Media for Iris Recognition**
 
 Demonstration scripts used to evaluate the I-SOCIAL-DB, described in the paper:
 
