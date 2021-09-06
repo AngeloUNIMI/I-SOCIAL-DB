@@ -7,7 +7,10 @@ Demonstration scripts used to evaluate the I-SOCIAL-DB, described in the paper:
     "I-SOCIAL-DB: A labeled database of images collected from websites and social media for iris recognition", 
     Image and Vision Computing, vol. 105, no. 104058, January, 2021, pp. 1-9. ISSN: 0262-8856.
     DOI: 10.1016/j.imavis.2020.104058
-    https://www.sciencedirect.com/science/article/abs/pii/S0262885620301906?via%3Dihub
+    
+Paper:
+
+https://www.sciencedirect.com/science/article/abs/pii/S0262885620301906?via%3Dihub
 
 Project page:<br/>
 [http://iebil.di.unimi.it/ISocialDB/index.html](http://iebil.di.unimi.it/ISocialDB/index.html)
